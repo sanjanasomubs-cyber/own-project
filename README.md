@@ -1,5 +1,4 @@
-# own-project
-Had made this project to keep track on my own things of my personal and college
+
 from flask import Flask, request, redirect, url_for, render_template_string, flash
 import sqlite3
 from pathlib import Path
